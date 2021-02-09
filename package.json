@@ -1,0 +1,16 @@
+{
+  "name": "igti-fs-modulo2-tp",
+  "version": "1.0.0",
+  "description": "Pratical Activity 2 made on the Full Stack bootcamp at IGTI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.con/GabrielFVieira/IGTI-FS-Modulo2-TP.git"
+  },
+  "author": "Gabriel F Vieira",
+  "license": "ISC",
+  "type": "module"
+}
